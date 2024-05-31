@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+fasterrcnn_model_state.pth filter=lfs diff=lfs merge=lfs -text
